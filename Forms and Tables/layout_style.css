@@ -1,0 +1,6 @@
+.grid-container > layout {}
+.footer {grid-area: }
+.header {grid-area: }
+.main {grid-area: }
+.nav {grid-area: }
+.section {grid-area: }
